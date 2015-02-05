@@ -1,0 +1,57 @@
+h1{
+	text-align: center;
+}
+h2{
+	text-decoration: underline
+}
+.permanent{
+	position: relative;
+	left:1000px;
+	bottom:110px;
+}
+.education{
+	position: relative;
+	bottom: 100px;
+}
+.experience{
+	position: relative;
+	bottom: 100px;
+}
+.activities{
+	position: relative;
+	bottom: 140px;
+}
+.date1{
+	position: relative;
+	left:1000px;
+	font-weight: bold;
+}
+.role1{
+	font-style: italic;
+}
+.date2{
+	position: relative;
+	left:1000px;
+	font-weight: bold;
+}
+.date3{
+	position: relative;
+	left:1000px;
+	font-weight: bold;
+}
+.list1{
+	position: relative;
+	bottom:40px;
+}
+.list2{
+	position: relative;
+	bottom:40px;
+}
+.list3{
+	position:relative;
+	bottom:40px;
+}
+.skills{
+	position:relative;
+	bottom:30px;
+}
